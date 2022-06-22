@@ -1,0 +1,17 @@
+{
+    "name": "omuha/fasthubsmsclient",
+    "description": "FastHub SMS Gateway API PHP Client Lib",
+    "type": "library",
+    "require": {
+        "php": ">=7.4",
+        "nategood/httpful": "^0.3.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ombeni Aidani",
+            "email": "ombeniaidani@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
